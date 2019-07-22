@@ -1,0 +1,6 @@
+# Karkat Vantas Web Page
+Welcome to the site's readme!
+So, my site has the target to be an entreteriment site...
+I hope you like it!
+This project was created to show the community that creating an HTML project in GitHub is fun!
+The link is on the Code Tab...
